@@ -1,0 +1,18 @@
+.app{
+  margin: 0px 150px;
+}
+
+.navlink{
+  text-decoration: none;
+  color: black;
+  margin: 0px 10px;
+  font-weight: 600;
+}
+
+.custom-color{
+  color:  #251D58;
+}
+
+h1{
+  font-size: 6vw !important;
+}
